@@ -13,7 +13,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 ---
-### :man_technologist: About Me :
+:man_technologist: About Me :
 I am a physics undergraduate intern passionate about data analysis and machine learning. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I studied at the National Autonomous University of Mexico (UNAM) and I am in continuous learning. :telescope:
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Pato-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/luis-enrique-hernández-alemán)
 ---
