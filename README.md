@@ -10,7 +10,7 @@
 ---
 About Me : 
 <p>I am a physics undergraduate intern passionate about data analysis and machine learning. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I studied at the National Autonomous University of Mexico (UNAM) and I am in continuous learning. :telescope:</p> 
-- :mailbox: How to reach me:        <a href="www.linkedin.com/in/luis-enrique-hernández-alemán"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> </a>
+- :mailbox: How to reach me:        <a href="http://www.linkedin.com/in/luis-enrique-hernández-alemán"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> </a>
 
 ---
 
